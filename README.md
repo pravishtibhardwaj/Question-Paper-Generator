@@ -12,7 +12,7 @@
 
 To run this project, you will need to add the following environment variables to your .env file
 
-- `MONGO_URL` is used to connect the project to a MongoDB database.
+- `MONGO_URI` is used to connect the project to a MongoDB database.
 - `PORT` - server will run on this port
 
 ## Installation & Basic Instructions
