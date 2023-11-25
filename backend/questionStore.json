@@ -1,0 +1,394 @@
+[
+  {
+    "question": "Explian the working of merge sort",
+    "subject": "DSA",
+    "topic": "Algorithm",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "what are semaphores",
+    "subject": "OS",
+    "topic": "Syncronisation",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "what are ACID properties",
+    "subject": "DBMS",
+    "topic": "Transaction",
+    "difficulty": "Medium",
+    "marks": 7
+  },
+  {
+    "question": "what is the time complexity of bubble sort",
+    "subject": "DSA",
+    "topic": "Algorithm",
+    "difficulty": "Easy",
+    "marks": 2
+  },
+  {
+    "question": "Discuss the role of enzymes in biological reactions",
+    "subject": "Biology",
+    "topic": "Biochemistry",
+    "difficulty": "Medium",
+    "marks": 8
+  },
+  {
+    "question": "What is the Pythagorean theorem",
+    "subject": "Mathematics",
+    "topic": "Geometry",
+    "difficulty": "Easy",
+    "marks": 6
+  },
+  {
+    "question": "What is the primary pigment responsible for photosynthesis in plant cells?",
+    "subject": "Biology",
+    "topic": "Cell Biology",
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "question": "Explain the role of the electron transport chain in the process of photosynthesis.",
+    "subject": "Biology",
+    "topic": "Cell Biology",
+    "difficulty": "Medium",
+    "marks": 8
+  },
+  {
+    "question": "Compare and contrast the light-dependent and light-independent reactions of photosynthesis in terms of their mechanisms and products.",
+    "subject": "Biology",
+    "topic": "Cell Biology",
+    "difficulty": "Hard",
+    "marks": 12
+  },
+  {
+    "question": "Define mitosis and describe its stages.",
+    "subject": "Biology",
+    "topic": "Cell Biology",
+    "difficulty": "Medium",
+    "marks": 7
+  },
+  {
+    "question": "What is the role of ribosomes in the cell?",
+    "subject": "Biology",
+    "topic": "Cell Biology",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "Explain the concept of osmosis and its importance in cell biology.",
+    "subject": "Biology",
+    "topic": "Cell Biology",
+    "difficulty": "Medium",
+    "marks": 8
+  },
+  {
+    "question": "Discuss the functions of the endoplasmic reticulum in eukaryotic cells.",
+    "subject": "Biology",
+    "topic": "Cell Biology",
+    "difficulty": "Hard",
+    "marks": 10
+  },
+  {
+    "question": "What is the difference between prokaryotic and eukaryotic cells?",
+    "subject": "Biology",
+    "topic": "Cell Biology",
+    "difficulty": "Easy",
+    "marks": 6
+  },
+  {
+    "question": "Explain the process of cellular respiration and its significance in energy production.",
+    "subject": "Biology",
+    "topic": "Cell Biology",
+    "difficulty": "Medium",
+    "marks": 9
+  },
+  {
+    "question": "Describe the structure and function of the Golgi apparatus in cells.",
+    "subject": "Biology",
+    "topic": "Cell Biology",
+    "difficulty": "Hard",
+    "marks": 11
+  },
+  {
+    "question": "What is the role of lysosomes in cellular function?",
+    "subject": "Biology",
+    "topic": "Cell Biology",
+    "difficulty": "Medium",
+    "marks": 7
+  },
+  {
+    "question": "Explain the significance of the cell membrane in maintaining cell integrity.",
+    "subject": "Biology",
+    "topic": "Cell Biology",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "Discuss the process of meiosis and its role in sexual reproduction.",
+    "subject": "Biology",
+    "topic": "Cell Biology",
+    "difficulty": "Hard",
+    "marks": 10
+  },
+  {
+    "question": "What are the major differences between plant and animal cells?",
+    "subject": "Biology",
+    "topic": "Cell Biology",
+    "difficulty": "Medium",
+    "marks": 8
+  },
+  {
+    "question": "Explain the concept of cell signaling and its importance in cellular communication.",
+    "subject": "Biology",
+    "topic": "Cell Biology",
+    "difficulty": "Hard",
+    "marks": 12
+  },
+  {
+    "question": "Explain the role of the cell wall in plant cells and compare it to the function of the cell membrane in animal cells.",
+    "subject": "Biology",
+    "topic": "Cell Biology",
+    "difficulty": "Medium",
+    "marks": 8
+  },
+  {
+    "question": "Discuss the importance of cell communication in multicellular organisms, highlighting different signaling mechanisms.",
+    "subject": "Biology",
+    "topic": "Cell Biology",
+    "difficulty": "Hard",
+    "marks": 11
+  },
+  {
+    "question": "What are stem cells, and how do they contribute to tissue regeneration and repair?",
+    "subject": "Biology",
+    "topic": "Cell Biology",
+    "difficulty": "Medium",
+    "marks": 7
+  },
+  {
+    "question": "Explain the concept of cellular homeostasis and provide examples of how cells maintain internal balance.",
+    "subject": "Biology",
+    "topic": "Cell Biology",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "Describe the structure and function of peroxisomes in eukaryotic cells, emphasizing their role in cellular metabolism.",
+    "subject": "Biology",
+    "topic": "Cell Biology",
+    "difficulty": "Hard",
+    "marks": 10
+  },
+  {
+    "question": "Discuss the impact of environmental factors on cell growth and division.",
+    "subject": "Biology",
+    "topic": "Cell Biology",
+    "difficulty": "Medium",
+    "marks": 8
+  },
+  {
+    "question": "Explain the significance of the cell nucleus in storing genetic information and controlling cell activities.",
+    "subject": "Biology",
+    "topic": "Cell Biology",
+    "difficulty": "Easy",
+    "marks": 6
+  },
+  {
+    "question": "Describe the process of autophagy and its role in cellular maintenance and survival during nutrient scarcity.",
+    "subject": "Biology",
+    "topic": "Cell Biology",
+    "difficulty": "Hard",
+    "marks": 12
+  },
+  {
+    "question": "What is the role of the endomembrane system in protein synthesis and secretion within the cell?",
+    "subject": "Biology",
+    "topic": "Cell Biology",
+    "difficulty": "Medium",
+    "marks": 7
+  },
+  {
+    "question": "Discuss the impact of mutations on cell function, providing examples of genetic disorders caused by mutations.",
+    "subject": "Biology",
+    "topic": "Cell Biology",
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "question": "Explain the process of cellular respiration, focusing on the importance of ATP production in cellular energy.",
+    "subject": "Biology",
+    "topic": "Cell Biology",
+    "difficulty": "Medium",
+    "marks": 9
+  },
+  {
+    "question": "Describe the structure and function of the cytoskeleton, emphasizing its role in cell shape and movement.",
+    "subject": "Biology",
+    "topic": "Cell Biology",
+    "difficulty": "Hard",
+    "marks": 11
+  },
+  {
+    "question": "Discuss the role of cell adhesion molecules in embryonic development and tissue organization.",
+    "subject": "Biology",
+    "topic": "Cell Biology",
+    "difficulty": "Medium",
+    "marks": 7
+  },
+  {
+    "question": "Explain the significance of cell differentiation in the development of specialized cell types within an organism.",
+    "subject": "Biology",
+    "topic": "Cell Biology",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "Describe the process of cellular senescence and its implications in aging and disease.",
+    "subject": "Biology",
+    "topic": "Cell Biology",
+    "difficulty": "Medium",
+    "marks": 8
+  },
+  {
+    "question": "Discuss the role of exosomes in intercellular communication and their potential applications in medicine.",
+    "subject": "Biology",
+    "topic": "Cell Biology",
+    "difficulty": "Hard",
+    "marks": 12
+  },
+  {
+    "question": "What is the function of the nucleolus in the synthesis of ribosomal RNA within the cell?",
+    "subject": "Biology",
+    "topic": "Cell Biology",
+    "difficulty": "Medium",
+    "marks": 7
+  },
+  {
+    "question": "Explain the concept of endosymbiotic theory and its significance in the evolution of eukaryotic cells.",
+    "subject": "Biology",
+    "topic": "Cell Biology",
+    "difficulty": "Easy",
+    "marks": 6
+  },
+  {
+    "question": "Describe the role of microRNAs in post-transcriptional gene regulation within the cell.",
+    "subject": "Biology",
+    "topic": "Cell Biology",
+    "difficulty": "Medium",
+    "marks": 9
+  },
+  {
+    "question": "Discuss the impact of cell cycle dysregulation on cancer development and progression.",
+    "subject": "Biology",
+    "topic": "Cell Biology",
+    "difficulty": "Hard",
+    "marks": 11
+  },
+  {
+    "question": "What is the primary function of the cell membrane?",
+    "subject": "Biology",
+    "topic": "Cell Biology",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "Explain the process of photosynthesis in plant cells.",
+    "subject": "Biology",
+    "topic": "Cell Biology",
+    "difficulty": "Easy",
+    "marks": 6
+  },
+  {
+    "question": "Describe the structure of a typical plant cell.",
+    "subject": "Biology",
+    "topic": "Cell Biology",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "What is the role of the nucleus in a eukaryotic cell?",
+    "subject": "Biology",
+    "topic": "Cell Biology",
+    "difficulty": "Easy",
+    "marks": 6
+  },
+  {
+    "question": "Explain the concept of osmosis in cell biology.",
+    "subject": "Biology",
+    "topic": "Cell Biology",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "Discuss the functions of mitochondria in animal cells.",
+    "subject": "Biology",
+    "topic": "Cell Biology",
+    "difficulty": "Easy",
+    "marks": 6
+  },
+  {
+    "question": "What are the main differences between plant and animal cells?",
+    "subject": "Biology",
+    "topic": "Cell Biology",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "Describe the process of cell division in eukaryotic cells.",
+    "subject": "Biology",
+    "topic": "Cell Biology",
+    "difficulty": "Easy",
+    "marks": 6
+  },
+  {
+    "question": "Explain the role of chloroplasts in photosynthetic organisms.",
+    "subject": "Biology",
+    "topic": "Cell Biology",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "Discuss the importance of the endoplasmic reticulum in cell function.",
+    "subject": "Biology",
+    "topic": "Cell Biology",
+    "difficulty": "Easy",
+    "marks": 6
+  },
+  {
+    "question": "What is the name of our galaxy?",
+    "subject": "Astronomy",
+    "topic": "Space",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "Explain the concept of a light-year.",
+    "subject": "Astronomy",
+    "topic": "Space",
+    "difficulty": "Easy",
+    "marks": 6
+  },
+  {
+    "question": "Describe the phases of the moon.",
+    "subject": "Astronomy",
+    "topic": "Space",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "What is the name of the nearest star to Earth?",
+    "subject": "Astronomy",
+    "topic": "Space",
+    "difficulty": "Easy",
+    "marks": 6
+  },
+  {
+    "question": "Explain the difference between a planet and a dwarf planet.",
+    "subject": "Astronomy",
+    "topic": "Space",
+    "difficulty": "Easy",
+    "marks": 5
+  }
+]
